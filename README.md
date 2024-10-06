@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Piyush181
-- 👀 I’m interested in C# and Unity!
-- 🌱 I’m currently learning C# and Unity!
+- 👀 I’m interested in Game Dev, Web ded, Python, IoT
+- 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: piyush29122007@gmail.com
 
